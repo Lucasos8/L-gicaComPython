@@ -1,0 +1,3 @@
+Link github : https://github.com/Lucasos8/LogicaComPython
+
+Link colab : https://colab.research.google.com/drive/11S8jgXQOcPEeTY_ElSpqpi35a6bX1TC6?usp=sharing
